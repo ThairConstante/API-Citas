@@ -101,6 +101,6 @@ Abre el archivo index.html en la carpeta frontend/ de este repositorio en tu nav
   "email": "juan@ejemplo.com"
 }
 ```
-## Diseñadores
+## Colaboradores
 - Thair Constante Pineda  
 - Kenny Vivero Pomares 
